@@ -1,1 +1,1 @@
-# GD-HelloW-A1-SamGrotenhuis
+# GD-HelloW-A1-Sampie
